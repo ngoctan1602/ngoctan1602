@@ -1,4 +1,4 @@
-![image](https://github.com/ngoctan1602/ngoctan1602/assets/96776355/df8a4e6c-d0c8-46ee-8660-875468e24577)
+
 <h1 align="center">Hi 👋, I'm Ngoc Tan</h1>
 <p align="center">
   <h3 align="center">
